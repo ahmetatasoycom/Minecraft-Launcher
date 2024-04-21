@@ -441,7 +441,7 @@
             this.infoPanel.Controls.Add(this.guna2CircleButton2);
             this.infoPanel.Controls.Add(this.guna2Separator2);
             this.infoPanel.Controls.Add(this.label21);
-            this.infoPanel.Location = new System.Drawing.Point(257, 148);
+            this.infoPanel.Location = new System.Drawing.Point(0, -4);
             this.infoPanel.Name = "infoPanel";
             this.infoPanel.Size = new System.Drawing.Size(704, 640);
             this.infoPanel.TabIndex = 61;
@@ -868,7 +868,7 @@
             this.modsPanel.Controls.Add(this.guna2PictureBox12);
             this.modsPanel.Controls.Add(this.guna2PictureBox15);
             this.modsPanel.Controls.Add(this.guna2PictureBox16);
-            this.modsPanel.Location = new System.Drawing.Point(12, 301);
+            this.modsPanel.Location = new System.Drawing.Point(0, 0);
             this.modsPanel.Name = "modsPanel";
             this.modsPanel.Size = new System.Drawing.Size(1341, 632);
             this.modsPanel.TabIndex = 63;

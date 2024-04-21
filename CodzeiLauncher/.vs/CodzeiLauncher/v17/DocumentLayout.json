@@ -1,64 +1,64 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\",
+  "WorkspaceRootPath": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|c:\\users\\fortn\\onedrive\\masa\u00FCst\u00FC\\codzeilauncher\\codzeilauncher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\modsjei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\modsjei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\modsjei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\modsgecko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|c:\\users\\fortn\\onedrive\\masa\u00FCst\u00FC\\everyone\\code\\codzeilauncher\\codzeilauncher\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\modsgecko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\modsgecko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CodzeiLauncher||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\modsjourney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\modsjourney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\modsjourney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\modscollective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\modscollective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\modscollective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\modscollective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\modscollective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\modscollective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\discordrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\discordrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\discordrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\codzeilauncher\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\codzeilauncher\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEB9A5D6-4D0A-44C3-9FAD-5CCB9EB77A7D}|CodzeiLauncher\\CodzeiLauncher.csproj|solutionrelative:codzeilauncher\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -69,29 +69,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\Program.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\Program.cs",
-              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\Program.cs",
+              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\Program.cs",
               "RelativeToolTip": "CodzeiLauncher\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T13:11:32.368Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\MainPage.Designer.cs",
+              "RelativeDocumentMoniker": "CodzeiLauncher\\MainPage.Designer.cs",
+              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\MainPage.Designer.cs",
+              "RelativeToolTip": "CodzeiLauncher\\MainPage.Designer.cs",
+              "ViewState": "AQIAAI0FAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:15:18.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CodzeiLauncher",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\CodzeiLauncher.csproj",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\CodzeiLauncher.csproj",
               "RelativeDocumentMoniker": "CodzeiLauncher\\CodzeiLauncher.csproj",
-              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\CodzeiLauncher.csproj",
+              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\CodzeiLauncher.csproj",
               "RelativeToolTip": "CodzeiLauncher\\CodzeiLauncher.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-04-19T16:05:55.441Z"
@@ -100,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ModsCOLLECTIVE.cs",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\ModsCOLLECTIVE.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\ModsCOLLECTIVE.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\ModsCOLLECTIVE.cs",
-              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\ModsCOLLECTIVE.cs",
+              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\ModsCOLLECTIVE.cs",
               "RelativeToolTip": "CodzeiLauncher\\ModsCOLLECTIVE.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAEwDUAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,10 +124,10 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ModsCOLLECTIVE.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\ModsCOLLECTIVE.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\ModsCOLLECTIVE.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\ModsCOLLECTIVE.cs",
               "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\ModsCOLLECTIVE.cs [Tasar\u0131m]",
-              "RelativeToolTip": "CodzeiLauncher\\ModsCOLLECTIVE.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\CodzeiLauncher\\CodzeiLauncher\\ModsCOLLECTIVE.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T18:34:43.215Z"
             },
@@ -123,10 +135,10 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ModsJOURNEY.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\ModsJOURNEY.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\ModsJOURNEY.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\ModsJOURNEY.cs",
               "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\ModsJOURNEY.cs [Tasar\u0131m]",
-              "RelativeToolTip": "CodzeiLauncher\\ModsJOURNEY.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\CodzeiLauncher\\CodzeiLauncher\\ModsJOURNEY.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T17:46:25.735Z"
             },
@@ -134,78 +146,68 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ModsGECKO.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\ModsGECKO.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\ModsGECKO.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\ModsGECKO.cs",
               "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\ModsGECKO.cs [Tasar\u0131m]",
-              "RelativeToolTip": "CodzeiLauncher\\ModsGECKO.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\CodzeiLauncher\\CodzeiLauncher\\ModsGECKO.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T17:27:46.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ModsJEI.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\ModsJEI.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\ModsJEI.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\ModsJEI.cs",
-              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\ModsJEI.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\ModsJEI.cs [Tasar\u0131m]",
               "RelativeToolTip": "CodzeiLauncher\\ModsJEI.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T15:07:07.17Z"
+              "WhenOpened": "2024-04-17T15:07:07.17Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainPage.cs",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\MainPage.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\MainPage.cs",
-              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\MainPage.cs",
+              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\MainPage.cs",
               "RelativeToolTip": "CodzeiLauncher\\MainPage.cs",
-              "ViewState": "AQIAAPcCAAAAAAAAAAAIwPUCAAAQAAAA",
+              "ViewState": "AQIAAJMAAAAAAAAAAAD4v6kAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T15:11:32.49Z"
+              "WhenOpened": "2024-04-12T15:11:32.49Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainPage.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\MainPage.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\MainPage.cs",
-              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\MainPage.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\MainPage.cs [Tasar\u0131m]",
               "RelativeToolTip": "CodzeiLauncher\\MainPage.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:45:18.514Z"
+              "WhenOpened": "2024-04-12T14:45:18.514Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "LoginScreen.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\LoginScreen.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\LoginScreen.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\LoginScreen.cs",
               "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\LoginScreen.cs [Tasar\u0131m]",
-              "RelativeToolTip": "CodzeiLauncher\\LoginScreen.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\CodzeiLauncher\\CodzeiLauncher\\LoginScreen.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T14:44:56.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\MainPage.Designer.cs",
-              "RelativeDocumentMoniker": "CodzeiLauncher\\MainPage.Designer.cs",
-              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\MainPage.Designer.cs",
-              "RelativeToolTip": "CodzeiLauncher\\MainPage.Designer.cs",
-              "ViewState": "AQIAANcFAAAAAAAAAAAgwBYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T13:15:18.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "DiscordRPC.cs",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\DiscordRPC.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\DiscordRPC.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\DiscordRPC.cs",
-              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\DiscordRPC.cs",
+              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\DiscordRPC.cs",
               "RelativeToolTip": "CodzeiLauncher\\DiscordRPC.cs",
               "ViewState": "AQIAAEEAAAAAAAAAAAAQwFgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,9 +217,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "LoginScreen.cs",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\LoginScreen.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\LoginScreen.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\LoginScreen.cs",
-              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\LoginScreen.cs",
+              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\LoginScreen.cs",
               "RelativeToolTip": "CodzeiLauncher\\LoginScreen.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAASwCgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,9 +229,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Loading.cs",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\Loading.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\Loading.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\Loading.cs",
-              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\Loading.cs",
+              "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\Loading.cs",
               "RelativeToolTip": "CodzeiLauncher\\Loading.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAUwCoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,10 +241,10 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Loading.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\Loading.cs",
+              "DocumentMoniker": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\Everyone\\Code\\CodzeiLauncher\\CodzeiLauncher\\Loading.cs",
               "RelativeDocumentMoniker": "CodzeiLauncher\\Loading.cs",
               "ToolTip": "C:\\Users\\fortn\\OneDrive\\Masa\u00FCst\u00FC\\CodzeiLauncher\\CodzeiLauncher\\Loading.cs [Tasar\u0131m]",
-              "RelativeToolTip": "CodzeiLauncher\\Loading.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\CodzeiLauncher\\CodzeiLauncher\\Loading.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T12:55:23.601Z"
             }

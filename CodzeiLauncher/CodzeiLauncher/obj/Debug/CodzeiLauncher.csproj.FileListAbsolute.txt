@@ -343,3 +343,7 @@ C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\Codze
 C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.ModsJEI.resources
 C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.ModsJOURNEY.resources
 C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.ModsCOLLECTIVE.resources
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.ModsCOLLECTIVE.resources
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.ModsGECKO.resources
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.ModsJEI.resources
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.ModsJOURNEY.resources
