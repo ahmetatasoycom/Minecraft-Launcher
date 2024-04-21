@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Codzei Launcher</h1>
 
 <p align="center">  
-<img src="https://r.resimlink.com/BmbHd2prn1so.jpg" alt="project-screenshot" width="100">
+<img src="https://r.resimlink.com/VRaXYrpZke.png" alt="project-screenshot" width="100">
 </p>
 
 
