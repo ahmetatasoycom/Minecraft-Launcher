@@ -1,0 +1,345 @@
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe.config
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe.manifest
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.application
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.pdb
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\CmlLib.Core.Installer.Forge.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\CmlLib.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Common.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Guna.UI2.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Owin.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\SevenZip.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Mono.Math.dll
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Common.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdOAuth.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\SevenZip.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\bin\Debug\Mono.Math.xml
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.AssemblyReference.cache
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.Loading.resources
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.LoginScreen.resources
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.MainPage.resources
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.Properties.Resources.resources
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.GenerateResource.cache
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.CoreCompileInputs.cache
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.exe.manifest
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.application
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLa.B9FB8B9D.Up2Date
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.exe
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.pdb
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.AssemblyReference.cache
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.Loading.resources
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.LoginScreen.resources
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.MainPage.resources
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.Properties.Resources.resources
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.GenerateResource.cache
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.CoreCompileInputs.cache
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.exe
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.pdb
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe.config
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe.manifest
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.application
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.pdb
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\CmlLib.Core.Installer.Forge.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\CmlLib.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Common.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Guna.UI2.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Owin.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\SevenZip.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Mono.Math.dll
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Common.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdOAuth.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\SevenZip.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\bin\Debug\Mono.Math.xml
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.exe.manifest
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.application
+C:\Users\fortn\OneDrive\Masaüstü\Everyone\Code\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLa.B9FB8B9D.Up2Date
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe.config
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe.manifest
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.application
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.pdb
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CmlLib.Core.Installer.Forge.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CmlLib.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.UI.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.UI.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Common.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.UI.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdOAuth.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Guna.UI2.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Newtonsoft.Json.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Owin.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\SevenZip.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Mono.Math.dll
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.UI.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.UI.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Common.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.UI.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdOAuth.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.pdb
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Newtonsoft.Json.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\SevenZip.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Mono.Math.xml
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.AssemblyReference.cache
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.SuggestedBindingRedirects.cache
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.Loading.resources
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.LoginScreen.resources
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.MainPage.resources
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.Properties.Resources.resources
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.GenerateResource.cache
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.CoreCompileInputs.cache
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.exe.manifest
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.application
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.CopyComplete
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.exe
+D:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.pdb
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe.config
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe.manifest
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.application
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.exe
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CodzeiLauncher.pdb
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CmlLib.Core.Installer.Forge.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\CmlLib.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.UI.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.UI.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Common.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.UI.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdOAuth.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Guna.UI2.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Newtonsoft.Json.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Owin.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\SevenZip.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Mono.Math.dll
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.Core.UI.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.InfoCard.UI.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Common.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenId.UI.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\DotNetOpenAuth.OpenIdOAuth.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.pdb
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\HtmlAgilityPack.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Newtonsoft.Json.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\SevenZip.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\bin\Debug\Mono.Math.xml
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.AssemblyReference.cache
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.Loading.resources
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.LoginScreen.resources
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.MainPage.resources
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.Properties.Resources.resources
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.GenerateResource.cache
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.csproj.CoreCompileInputs.cache
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.exe.manifest
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.application
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLa.B9FB8B9D.Up2Date
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.exe
+E:\OTHER CODES\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.pdb
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.ModsGECKO.resources
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.ModsJEI.resources
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.ModsJOURNEY.resources
+C:\Users\fortn\OneDrive\Masaüstü\CodzeiLauncher\CodzeiLauncher\obj\Debug\CodzeiLauncher.ModsCOLLECTIVE.resources
