@@ -11,8 +11,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://r.resimlink.com/Pw-AnObJ.png" alt="project-screenshot" width="1080" height="550"> &nbsp; <img src="https://r.resimlink.com/4HWS8g.png" alt="project-screenshot" width="1080" height="550">
-  
+<p align="center">
+<img src="https://r.resimlink.com/Pw-AnObJ.png" alt="project-screenshot" width="1080" height="550">
+<img src="https://r.resimlink.com/4HWS8g.png" alt="project-screenshot" width="1080" height="550">
+</p>
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
