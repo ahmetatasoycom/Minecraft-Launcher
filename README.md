@@ -7,7 +7,7 @@
 
 <p align="center" <p id="description">A multi-featured Minecraft Launcher designed and coded in C# Form, running Minecraft via CmlLib, with a responsive design and advanced mode menu.</p>
 
-<p align="center"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fat4soyy" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fahmetatasoycom" alt="shields"></p>
 
 <h2>Project Screenshots:</h2>
 
